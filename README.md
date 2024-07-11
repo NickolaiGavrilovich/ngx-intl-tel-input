@@ -14,8 +14,7 @@ Validation with [google-libphonenumber](https://github.com/ruimarinho/google-lib
 
 | ngx-intl-tel-input | Angular        | ngx-bootstrap |
 | ------------------ |----------------| ------------- |
-| 3.x.x              | 9.x.x - 14.x.x | >= 6.0.0      |
-| 2.x.x              | 8.x.x - 9.1.x  | 5.6.x         |
+| 18.x.x             | 9.x.x - 18.x.x | >= 6.0.0     |
 
 ## Installation
 
@@ -41,14 +40,8 @@ Add _'intl-tel-input'_ style file:
 
 to **angular.json** styles array:
 
-```json
-
-"styles": [
-  "./node_modules/intl-tel-input/build/css/intlTelInput.css",
-  "src/styles.css"
-],
-
-```
+`./node_modules/intl-tel-input/build/css/intlTelInput.css`
+`src/styles.css"`
 
 ### Install This Library
 
