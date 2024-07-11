@@ -3,5 +3,8 @@
   "dest": "../../dist/ngx-intl-tel-input",
   "lib": {
     "entryFile": "src/public_api.ts"
-  }
+  },
+  "assets": [
+    "./src/lib/*.css"
+  ]
 }
