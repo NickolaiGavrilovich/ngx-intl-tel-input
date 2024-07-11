@@ -12,5 +12,8 @@
     "src/test.ts",
     "**/*.spec.ts"
   ],
-  "angularCompilerOptions": {}
+  "angularCompilerOptions": {
+    "enableIvy": false,
+    "compilationMode": "partial"
+  }
 }
